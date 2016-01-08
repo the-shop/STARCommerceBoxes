@@ -15,7 +15,7 @@ git_clone:
     install: '1'
     repositories:
         - value:
-            destination: '/var/www/ProjectCode/SCFrontend'
+            destination: '/var/www/BoxData/SCFrontend'
             source: 'https://github.com/the-shop/STARCommerceFrontend.git'
             revision: 'master'
 ...
