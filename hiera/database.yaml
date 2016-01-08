@@ -1,0 +1,11 @@
+---
+:backends: yaml
+:yaml:
+    :datadir: '/vagrant/puphpet/boxes/hiera'
+:hierarchy:
+    - sql_data
+    - nosql_data
+    - common_data
+:merge_behavior: deeper
+:logger: console
+...
