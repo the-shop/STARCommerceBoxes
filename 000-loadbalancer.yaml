@@ -30,7 +30,7 @@ vagrantfile:
                 module_path: puphpet/puppet/modules
                 options:
                     - '--verbose'
-                    - '--hiera_config /vagrant/puphpet/boxes/hiera/loadbalancer.yaml'
+                    - '--hiera_config /vagrant/puphpet/boxes/STARCommerce/hiera/loadbalancer.yaml'
         synced_folder:
             vflsf_py36dwjwk5ia:
                 source: ./

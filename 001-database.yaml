@@ -33,7 +33,7 @@ vagrantfile:
                 module_path: puphpet/puppet/modules
                 options:
                     - '--verbose'
-                    - '--hiera_config /vagrant/puphpet/boxes/hiera/database.yaml'
+                    - '--hiera_config /vagrant/puphpet/boxes/STARCommerce/hiera/database.yaml'
         synced_folder:
             vflsf_qmd1r5axfdxk:
                 source: ./

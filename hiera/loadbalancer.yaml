@@ -1,7 +1,7 @@
 ---
 :backends: yaml
 :yaml:
-    :datadir: '/vagrant/puphpet/boxes/hiera'
+    :datadir: '/vagrant/puphpet/boxes/STARCommerce/hiera'
 :hierarchy:
     - loadbalancer_data
     - common_data
