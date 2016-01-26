@@ -2,7 +2,7 @@
 This repository contains YAML files that define minimal VM setup for STAR Commerce project. 
 
 Note: Contents of this repository are intended to be used with 
-[multi box vagrant with puppet setup we provide](https://github.com/the-shop/STARCommerce) only.
+[multi box vagrant with puppet setup we provide](https://github.com/the-shop/Environments) only.
 
 ## Setup
   - Before you run the `up` command, copy file `puphpet/boxes/STARCommerce/hiera/magento2_data.yaml.dist` to 
